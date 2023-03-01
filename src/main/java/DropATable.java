@@ -10,7 +10,7 @@ import java.sql.Statement;
  * SQL sublanguage: DDL (Data Definition Language)
  *
  * In the last activity we learned how to create tables in SQL. In this activity we are going to learn how to drop a table from our database.
- *
+ *ghfghfhdfghdfghdfghdfhdfghdf
  * The syntax for dropping a table is as follows:
  * DROP TABLE table_name;
  *
