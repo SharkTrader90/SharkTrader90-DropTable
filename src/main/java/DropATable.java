@@ -19,7 +19,7 @@ import java.sql.Statement;
 public class DropATable {
 
     /**
-     *      Task: Drop the table "song"
+     *      Task: Drop the table "song";
      *      song Table Diagram:
      *      |      title        |        artist         |
      *      ---------------------------------------------
